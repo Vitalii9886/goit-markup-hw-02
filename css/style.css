@@ -162,7 +162,9 @@ color: #2e2f42;
 }
 
 /* ----footer----- */
-.footer {}
+.footer {
+    background: #2e2f42;
+}
 
 .logo-white {
     color: #f4f4fd;
