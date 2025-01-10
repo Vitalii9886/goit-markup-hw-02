@@ -1,0 +1,178 @@
+body {
+    font-family: "roboto" , sans-serif;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+
+/* --------header-------- */
+.header {
+}
+
+.logo {
+color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.logo-black {
+color: #2e2f42;
+}
+
+.header-nav {
+
+}
+
+.header-nav-link {
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.header-address {
+
+}
+
+.address-link {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* ------main------ */
+.main {
+        background: #2e2f42;
+}
+
+.main-title {
+        color: #ffffff;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+.button {
+        color: #ffffff;
+        background: #4d5ae5;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+}
+
+/* ------advantages------ */
+.advantages {}
+
+.advantages-title {
+    color: #2e2f42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.advantages-text {
+        color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+/* -----team----- */
+.team {
+    background: #f4f4fd;
+}
+
+.team-card{
+    background: #ffffff;
+}
+
+.team-title {
+        color: #2e2f42;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+    /* Header 3 */
+}
+
+.team-img {}
+
+.team-name {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.team-profession {
+        color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+/* -----portfolio------- */
+.Portfolio {}
+
+.Portfolio-title {
+    color: #2e2f42;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+.Portfolio-card {}
+
+.Portfolio-name {
+    color: #2e2f42;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.Portfolio-text {
+        color: #434455;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
+/* ----footer----- */
+.footer {}
+
+.logo-white {
+    color: #f4f4fd;
+}
+
+.footer-tex {
+    /* Body */
+        color: #f4f4fd;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
