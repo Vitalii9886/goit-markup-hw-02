@@ -11,8 +11,8 @@ ul {
 }
 
 /* --------header-------- */
-.header {
-}
+/* .header {
+} */
 
 .logo {
 color: #4d5ae5;
@@ -28,9 +28,9 @@ color: #4d5ae5;
 color: #2e2f42;
 }
 
-.header-nav {
+/* .header-nav {
 
-}
+} */
 
 .header-nav-link {
     color: #2e2f42;
@@ -76,7 +76,7 @@ font-style: normal
 }
 
 /* ------advantages------ */
-.advantages {}
+/* .advantages {} */
 
 .advantages-title {
     color: #2e2f42;
@@ -113,7 +113,7 @@ font-style: normal
     /* Header 3 */
 }
 
-.team-img {}
+/* .team-img {} */
 
 .team-name {
     color: #2e2f42;
@@ -135,7 +135,7 @@ font-style: normal
 }
 
 /* -----portfolio------- */
-.portfolio {}
+/* .portfolio {} */
 
 .portfolio-title {
     color: #2e2f42;
@@ -147,7 +147,7 @@ font-style: normal
         text-transform: capitalize
 }
 
-.portfolio-card {}
+/* .portfolio-card {} */
 
 .portfolio-name {
     color: #2e2f42;
